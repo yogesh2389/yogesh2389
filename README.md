@@ -1,7 +1,7 @@
 ![MasterHead](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/pathways_3.gif)
 <h1 align="center">Hi 👋, I'm Yogesh Chandavarkar</h1>
 <h3 align="center">An enthusiast and a high energy driven professional, targeting assignments in Machine Learning, Computer Vision, Deep Learning, NLP, Deep-Reinforcement Learning, and AI where I can share my skills and expand my capabilities further in the pursuit of progressive career advancement.</h3>
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="Coding" width="1320" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh2389&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh2389" /> </p>
 
