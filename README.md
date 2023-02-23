@@ -1,7 +1,7 @@
 ![MasterHead](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/pathways_3.g)
 <h1 align="center">Hi 👋, I'm Yogesh Chandavarkar</h1>
 
-<img align="right" alt="Coding" width="1320" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.g">
+<img align="right" alt="Coding" width="1320" src="https://code.org/images/ai/ailab.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh2389&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh2389" /> </p>
 
