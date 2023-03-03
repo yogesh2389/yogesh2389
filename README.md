@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **SQL , Tableau**
 
-- 📫 How to reach me **yogesh2389@hotmail.com**
+- 📫 How to reach me @ **yogesh2389@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yogesh-chandavarkarhttps://www.linkedin.com/in/yogesh-chandavarkar](https://www.linkedin.com/in/yogesh-chandavarkarhttps://www.linkedin.com/in/yogesh-chandavarkar)
+- 📄 Know about my experiences [https://www.linkedin.com/in/yogesh-chandavarkar](https://www.linkedin.com/in/yogesh-chandavarkarhttps://www.linkedin.com/in/yogesh-chandavarkar)
 
 - ⚡ Fun fact **I think I'm Funny**
 
