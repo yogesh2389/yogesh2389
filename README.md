@@ -31,9 +31,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yogesh2389&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=yogesh2389&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 ## 🌐 Connect with me:
 
