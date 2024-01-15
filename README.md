@@ -1,5 +1,5 @@
-![MasterHead](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/pathways_3.g)
-<h1 align="center">Hi 👋, I'm Yogesh Chandavarkar</h1>
+# ![MasterHead](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/pathways_3.g)
+# <h1 align="center">Hi 👋, I'm Yogesh Chandavarkar</h1>
 
 <img align="right" alt="Coding" width="1320" src="https://code.org/images/ai/ailab.gif">
 
